@@ -1,0 +1,17 @@
+[Unit]
+Description=The nginx HTTP and reverse proxy server
+After=network.target remote-fs.target nss-lookup.target
+
+[Service]
+Type=forking
+PIDFile=/home/kostya/nginx/logs/nginx.pid
+#ExecStartPre=/usr/bin/rm -f /run/nginx.pid
+ExecStart=/home/kostya/nginx/sbin/nginx -c /home/kostya/nginx/conf/nginx.conf
+ExecReload=/bin/kill -s HUP $MAINPID
+KillSignal=SIGQUIT
+TimeoutStopSec=5
+KillMode=process
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

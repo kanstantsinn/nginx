@@ -1,0 +1,85 @@
+2017/10/06 14:25:50 [error] 15579#0: *1 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:25:50 [error] 15579#0: *2 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:25:50 [error] 15579#0: *3 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:25:50 [error] 15579#0: *4 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:25:50 [error] 15579#0: *5 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:25:50 [error] 15579#0: *6 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:25:50 [error] 15579#0: *7 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:25:50 [error] 15579#0: *8 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:25:50 [error] 15579#0: *9 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:25:50 [error] 15579#0: *10 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:16 [error] 15579#0: *11 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:16 [error] 15579#0: *12 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:16 [error] 15579#0: *13 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:16 [error] 15579#0: *14 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:16 [error] 15579#0: *15 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:19 [error] 15579#0: *16 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:53 [error] 15579#0: *17 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:53 [error] 15579#0: *18 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:53 [error] 15579#0: *19 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:53 [error] 15579#0: *20 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:53 [error] 15579#0: *21 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:53 [error] 15579#0: *22 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:57 [error] 15579#0: *23 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:57 [error] 15579#0: *24 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:57 [error] 15579#0: *25 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:57 [error] 15579#0: *26 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:57 [error] 15579#0: *27 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:57 [error] 15579#0: *28 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:57 [error] 15579#0: *29 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:57 [error] 15579#0: *30 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:57 [error] 15579#0: *31 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:26:57 [error] 15579#0: *32 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:03 [error] 15579#0: *33 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:03 [error] 15579#0: *34 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:03 [error] 15579#0: *35 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:04 [error] 15579#0: *36 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:04 [error] 15579#0: *37 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:30 [error] 15579#0: *38 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:30 [error] 15579#0: *39 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:30 [error] 15579#0: *40 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:30 [error] 15579#0: *41 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:30 [error] 15579#0: *42 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:30 [error] 15579#0: *43 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:30 [error] 15579#0: *44 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:30 [error] 15579#0: *45 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:30 [error] 15579#0: *46 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:27:30 [error] 15579#0: *47 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:28:01 [error] 15579#0: *48 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:28:09 [error] 15579#0: *49 no "ssl_certificate" is defined in server listening on SSL port while SSL handshaking, client: 192.168.122.65, server: 0.0.0.0:8443
+2017/10/06 14:28:23 [error] 15961#0: *2 open() "/home/kostya/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.65, server: nginx.balanser, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.65:8443"
+2017/10/06 14:28:23 [error] 15961#0: *2 open() "/home/kostya/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.65, server: nginx.balanser, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.65:8443"
+2017/10/06 14:28:24 [error] 15961#0: *2 access forbidden by rule, client: 192.168.122.65, server: nginx.balanser, request: "GET /status HTTP/1.1", host: "192.168.122.65:8443", referrer: "https://192.168.122.65:8443/"
+2017/10/06 14:45:59 [emerg] 16400#0: unknown "servername" variable
+2017/10/06 14:46:45 [emerg] 16427#0: unknown "servername" variable
+2017/10/06 16:00:37 [error] 1091#0: *5 open() "/home/kostya/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.33, server: nginx.balanser, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.65:8443"
+2017/10/06 16:14:40 [error] 2738#0: *1 access forbidden by rule, client: 192.168.122.33, server: 192.168.122.65, request: "GET /status HTTP/1.1", host: "192.168.122.65:8443", referrer: "https://192.168.122.65:8443/"
+2017/10/06 16:15:22 [error] 2738#0: *1 access forbidden by rule, client: 192.168.122.33, server: 192.168.122.65, request: "GET /status HTTP/1.1", host: "192.168.122.65:8443"
+2017/10/06 16:15:37 [error] 2738#0: *1 access forbidden by rule, client: 192.168.122.33, server: 192.168.122.65, request: "GET /status HTTP/1.1", host: "192.168.122.65:8443"
+2017/10/06 16:17:54 [error] 2816#0: *2 open() "/home/kostya/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.33, server: 192.168.122.65, request: "GET /admin HTTP/1.1", host: "192.168.122.65:8443", referrer: "https://192.168.122.65:8443/"
+2017/10/06 16:18:01 [error] 2816#0: *2 open() "/home/kostya/nginx/html/pictures/01.jpg" failed (2: No such file or directory), client: 192.168.122.33, server: 192.168.122.65, request: "GET /pictures/01.jpg HTTP/1.1", host: "192.168.122.65:8443", referrer: "https://192.168.122.65:8443/"
+2017/10/06 16:20:07 [emerg] 2873#0: "proxy_pass" directive is not allowed here in /home/kostya/nginx/conf/vhosts/backend.conf:20
+2017/10/06 16:24:28 [emerg] 3000#0: "proxy_pass" directive is not allowed here in /home/kostya/nginx/conf/vhosts/backend.conf:25
+2017/10/06 16:27:36 [error] 3051#0: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.33, server: 192.168.122.65, request: "GET /admin HTTP/1.1", upstream: "http://192.168.122.33:8080/admin", host: "192.168.122.65:8443", referrer: "https://192.168.122.65:8443/"
+2017/10/06 16:28:39 [error] 3051#0: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.33, server: 192.168.122.65, request: "GET /admin HTTP/1.1", upstream: "http://192.168.122.33:8080/admin", host: "192.168.122.65:8443", referrer: "https://192.168.122.65:8443/"
+2017/10/06 16:29:08 [error] 3051#0: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.33, server: 192.168.122.65, request: "GET /admin HTTP/1.1", upstream: "http://192.168.122.33:8080/admin", host: "192.168.122.65:8443", referrer: "https://192.168.122.65:8443/"
+2017/10/06 16:30:38 [error] 3051#0: *19 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.33, server: 192.168.122.65, request: "GET /pictures/01.jpg HTTP/1.1", upstream: "http://192.168.122.33:8080/pictures/01.jpg", host: "192.168.122.65:8443", referrer: "https://192.168.122.65:8443/"
+2017/10/06 16:31:45 [error] 3051#0: *25 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.122.33:8080/favicon.ico", host: "192.168.122.65:8443"
+2017/10/06 16:33:56 [error] 3051#0: *36 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET /pictures/01.jpg HTTP/1.1", upstream: "http://192.168.122.33:8080/pictures/01.jpg", host: "192.168.122.65:8443", referrer: "https://192.168.122.65:8443/"
+2017/10/06 16:34:07 [error] 3051#0: *41 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.177:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:34:17 [error] 3051#0: *45 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.33:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:34:17 [error] 3051#0: *45 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.65:8443"
+2017/10/06 16:35:07 [error] 3051#0: *45 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.177:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:35:07 [error] 3051#0: *45 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.33:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:35:14 [error] 3051#0: *45 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.65:8443"
+2017/10/06 16:35:43 [error] 3051#0: *45 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.177:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:35:43 [error] 3051#0: *45 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.33:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:35:44 [error] 3051#0: *52 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.65:8443"
+2017/10/06 16:35:52 [error] 3051#0: *45 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.65:8443"
+2017/10/06 16:36:08 [error] 3051#0: *45 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.177:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:36:08 [error] 3051#0: *45 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.33:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:36:33 [error] 3051#0: *57 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.177:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:36:33 [error] 3051#0: *57 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.33:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:37:24 [error] 3051#0: *61 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.177:8080/", host: "192.168.122.65:8443"
+2017/10/06 16:38:43 [error] 3051#0: *61 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.65, request: "GET / HTTP/1.1", upstream: "http://192.168.122.33:8080/", host: "192.168.122.65:8443"
+2017/10/06 17:23:59 [emerg] 3778#0: directive "error_page" is not terminated by ";" in /home/kostya/nginx/conf/vhosts/backend.conf:29
